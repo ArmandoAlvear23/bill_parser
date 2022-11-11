@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTCii+4tzoG5ar0DHliBTkmTt9P+zTuzp+oUw4RYtFG+UwnuMSO7THfPOxmJbXPU1iH+Awoq/3Np398SiDhz5g==",
+  "success": true,
+  "projectFilePath": "/Users/armandoalvear/Projects/ic_assessment/ic_assessment/ic_assessment.csproj",
+  "expectedPackageFiles": [
+    "/Users/armandoalvear/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/armandoalvear/.nuget/packages/system.configuration.configurationmanager/7.0.0/system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "/Users/armandoalvear/.nuget/packages/system.data.oledb/7.0.0/system.data.oledb.7.0.0.nupkg.sha512",
+    "/Users/armandoalvear/.nuget/packages/system.diagnostics.performancecounter/7.0.0/system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "/Users/armandoalvear/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/armandoalvear/.nuget/packages/system.security.cryptography.protecteddata/7.0.0/system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "/Users/armandoalvear/.nuget/packages/system.security.permissions/7.0.0/system.security.permissions.7.0.0.nupkg.sha512",
+    "/Users/armandoalvear/.nuget/packages/system.windows.extensions/7.0.0/system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
